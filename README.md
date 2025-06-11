@@ -1,4 +1,5 @@
 # CoreTrawler
+![Solaris 10](https://img.shields.io/badge/OS-Solaris_10-orange.svg)
 
 **Coretrawler** is a data forensics utility for Solaris designed to scan raw disk devices on a live host for core dump files. It can parse core files to extract valuable information such as the generating process name, executable path, process id, parent process id, process start timestamp, and optionally extract and save full core files to a specified directory.
 
